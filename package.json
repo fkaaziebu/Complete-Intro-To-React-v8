@@ -1,0 +1,23 @@
+{
+  "name": "complete-intro-to-react-v8",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier --write \"src/**/*.{js,jsx}\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fkaaziebu/Complete-Intro-To-React-v8.git"
+  },
+  "author": "Frederick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fkaaziebu/Complete-Intro-To-React-v8/issues"
+  },
+  "homepage": "https://github.com/fkaaziebu/Complete-Intro-To-React-v8#readme",
+  "devDependencies": {
+    "prettier": "^2.7.1"
+  }
+}
