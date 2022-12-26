@@ -22,6 +22,7 @@ const SearchParams = () => {
         const json = await res.json();
         setPets(json.pets);
     }
+    
     return (
         <div className="search-params">
             <form onSubmit={e => {
